@@ -7,6 +7,6 @@ def line(katz_deli)
     katz_deli.each.with_index(1) do |name, index|
       place_in_line<<"#{index+1}. #{name} "
     end
-    puts "The line is currently: #{place_in_line}"
+    puts place_in_line
   end
 end
