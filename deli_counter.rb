@@ -10,3 +10,4 @@ def line(katz_deli)
     puts place_in_line
   end
 end
+def take_a_number(array,string)
