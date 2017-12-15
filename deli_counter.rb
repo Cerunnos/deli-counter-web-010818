@@ -1,6 +1,6 @@
 katz_deli=[]
 def line(katz_deli)
-  place_in_line="The line is currently: "
+  place_in_line="The line is currently:"
   if katz_deli.empty?
     puts "The line is currently empty."
   else
