@@ -10,6 +10,6 @@ def line(katz_deli)
     puts place_in_line
   end
 end
-def take_a_number(array,string)
+def take_a_number(katz_deli,name)
 
 end
